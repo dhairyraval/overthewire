@@ -1,2 +1,2 @@
 # overthewire
-Repo for notes from different challenges on OverTheWire
+Notes from my attempts of different challenges on OverTheWire
